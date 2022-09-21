@@ -25,8 +25,6 @@ var $plugins =
 {"name":"AooniAchievement","status":false,"description":"アチーブメント画面を確実に表示するのに必要なコマンド群です","parameters":{}},
 {"name":"DiscardImageFromCache","status":true,"description":"プラグインコマンドで明示的に画像をキャッシュから削除出来ます。","parameters":{}},
 {"name":"Oggy_1_3_1_MemoryLeakPatch","status":false,"description":"","parameters":{}},
-{"name":"AndAppCapture","status":true,"description":"録画機能の検証用プラグインです。","parameters":{}},
-{"name":"AndAppAchievement","status":true,"description":"アチーブメント機能のプラグインです。","parameters":{}},
 {"name":"CommonEventOnMenu","status":true,"description":"メニューを開く直前または閉じた直後にコモンイベントを起動します。","parameters":{"Before Menu Variable ID":"90","After Menu Variable ID":"91"}},
 {"name":"CastCommonEvent","status":true,"description":"特定の名前のイベントに任意のコモンイベントを実行させます","parameters":{}},
 {"name":"CommonEventByWalk2","status":true,"description":"歩き始める直前または特定の歩数毎にコモンイベントを呼び出します。","parameters":{"Common Event Var ID":"92","Step Interval Var ID":"93"}},
